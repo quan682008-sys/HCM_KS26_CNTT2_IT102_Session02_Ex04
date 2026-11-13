@@ -1,0 +1,17 @@
+﻿Phần 1: Phân tích chẩn đoán lỗi
+Bộ phận
+	CREATE bị thiếu
+	Giải thích
+	CSKH
+	Character, Adjustment, Type
+	Chưa nêu vai trò AI, giọng văn và cách trình bày tin nhắn.
+	Bán hàng
+	Request, Examples, Extras
+	Thiếu ngân sách, nhu cầu sử dụng và ví dụ cấu hình phù hợp.
+	Bảo hành
+	Character, Type, Adjustment
+	Chưa xác định vai trò kỹ thuật viên, định dạng bảng giá và cách giải thích.
+	Phần 2: Nâng cấp chuẩn hóa câu lệnh  
+1. CSKH: Bạn là nhân viên chăm sóc khách hàng TechShop. Hãy viết tin nhắn xin lỗi khách vì đơn hàng giao trễ 2 ngày. Ví dụ khách đặt laptop nhưng chưa nhận được hàng. Viết lịch sự, ngắn gọn, có hướng giải quyết và thời gian giao dự kiến. Nếu chưa có thông tin chính xác thì không tự đưa ra cam kết.
+2. Bán hàng: Bạn là nhân viên tư vấn TechShop. Hãy giới thiệu 3 laptop gaming tầm giá 25–30 triệu, phù hợp chơi game và học lập trình. Ưu tiên RAM 16GB, RTX 4060 hoặc tương đương. Trình bày bảng gồm tên máy, cấu hình, giá và ưu điểm. Không tự bịa thông tin sản phẩm.
+3. Bảo hành: Bạn là kỹ thuật viên TechShop. Hãy tư vấn chi phí thay màn hình laptop bị vỡ, ví dụ màn hình 15.6 inch Full HD. Trình bày bảng gồm giá tham khảo, thời gian sửa và bảo hành. Giải thích dễ hiểu, nếu thiếu model máy hoặc bảng giá thì hỏi lại khách.
